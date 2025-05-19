@@ -1,0 +1,754 @@
+{
+  "Information Technology": {
+    "icon": "FaLaptopCode",
+    "description": "Technology and software development industry",
+    "job_profiles": {
+      "Software Development": {
+        "sub_categories": [
+          {
+            "name": "Frontend Developer",
+            "required_skills": [
+              "JavaScript",
+              "React",
+              "HTML",
+              "CSS",
+              "TypeScript",
+              "Redux",
+              "Responsive Design",
+              "UI/UX",
+              "Webpack",
+              "Git"
+            ],
+            "recommended_skills": [
+              "Next.js",
+              "Vue.js",
+              "Angular",
+              "Tailwind CSS",
+              "GraphQL",
+              "Jest",
+              "Cypress",
+              "WebSocket",
+              "PWA",
+              "Accessibility"
+            ]
+          },
+          {
+            "name": "Backend Developer",
+            "required_skills": [
+              "Python",
+              "Node.js",
+              "SQL",
+              "REST API",
+              "Git",
+              "Docker",
+              "System Design",
+              "Microservices",
+              "Cloud Services",
+              "Database Design"
+            ],
+            "recommended_skills": [
+              "GraphQL",
+              "MongoDB",
+              "Redis",
+              "Kubernetes",
+              "AWS",
+              "Message Queues",
+              "Caching",
+              "Security",
+              "CI/CD",
+              "Testing"
+            ]
+          },
+          {
+            "name": "Full Stack Developer",
+            "required_skills": [
+              "JavaScript",
+              "Python",
+              "React",
+              "Node.js",
+              "SQL",
+              "Git",
+              "Docker",
+              "REST API",
+              "System Design",
+              "Cloud Services"
+            ],
+            "recommended_skills": [
+              "TypeScript",
+              "GraphQL",
+              "MongoDB",
+              "AWS",
+              "CI/CD",
+              "Testing",
+              "Security",
+              "DevOps",
+              "Microservices",
+              "WebSocket"
+            ]
+          },
+          {
+            "name": "DevOps Engineer",
+            "required_skills": [
+              "Docker",
+              "Kubernetes",
+              "AWS",
+              "CI/CD",
+              "Linux",
+              "Shell Scripting",
+              "Git",
+              "Infrastructure as Code",
+              "Monitoring",
+              "Networking"
+            ],
+            "recommended_skills": [
+              "Terraform",
+              "Ansible",
+              "Prometheus",
+              "Grafana",
+              "ELK Stack",
+              "Azure",
+              "GCP",
+              "Security",
+              "Python",
+              "Jenkins"
+            ]
+          }
+        ]
+      },
+      "Data Science": {
+        "sub_categories": [
+          {
+            "name": "Data Scientist",
+            "required_skills": [
+              "Python",
+              "Machine Learning",
+              "SQL",
+              "Statistics",
+              "Data Analysis",
+              "TensorFlow",
+              "PyTorch",
+              "Data Visualization",
+              "Big Data",
+              "Communication"
+            ],
+            "recommended_skills": [
+              "Deep Learning",
+              "NLP",
+              "Computer Vision",
+              "Time Series Analysis",
+              "A/B Testing",
+              "MLOps",
+              "Cloud Platforms",
+              "Docker",
+              "Git",
+              "R"
+            ]
+          },
+          {
+            "name": "Data Engineer",
+            "required_skills": [
+              "Python",
+              "SQL",
+              "Big Data",
+              "ETL",
+              "Data Warehousing",
+              "Apache Spark",
+              "Hadoop",
+              "Airflow",
+              "Data Modeling",
+              "Cloud Services"
+            ],
+            "recommended_skills": [
+              "Kafka",
+              "Snowflake",
+              "dbt",
+              "Docker",
+              "Kubernetes",
+              "AWS",
+              "Azure",
+              "GCP",
+              "Git",
+              "CI/CD"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "Finance and Accounting": {
+    "icon": "FaChartLine",
+    "description": "Financial services and accounting industry",
+    "job_profiles": {
+      "Financial Analysis": {
+        "sub_categories": [
+          {
+            "name": "Financial Analyst",
+            "required_skills": [
+              "Financial Modeling",
+              "Excel",
+              "Financial Analysis",
+              "SQL",
+              "Data Analysis",
+              "Forecasting",
+              "Risk Assessment",
+              "Communication",
+              "Problem Solving",
+              "Attention to Detail"
+            ],
+            "recommended_skills": [
+              "Python",
+              "Tableau",
+              "Power BI",
+              "VBA",
+              "Statistics",
+              "Business Intelligence",
+              "Project Management",
+              "Financial Software",
+              "Regulatory Compliance",
+              "Market Analysis"
+            ]
+          },
+          {
+            "name": "Investment Analyst",
+            "required_skills": [
+              "Financial Analysis",
+              "Market Research",
+              "Investment Strategies",
+              "Risk Assessment",
+              "Excel",
+              "Financial Modeling",
+              "Communication",
+              "Attention to Detail",
+              "Problem Solving",
+              "Time Management"
+            ],
+            "recommended_skills": [
+              "Python",
+              "SQL",
+              "Bloomberg Terminal",
+              "Portfolio Management",
+              "Derivatives",
+              "Fixed Income",
+              "Equity Analysis",
+              "Financial Software",
+              "Regulatory Compliance",
+              "Data Visualization"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "Healthcare": {
+    "icon": "FaHeartbeat",
+    "description": "Healthcare and medical services industry",
+    "job_profiles": {
+      "Healthcare IT": {
+        "sub_categories": [
+          {
+            "name": "Healthcare Data Analyst",
+            "required_skills": [
+              "SQL",
+              "Data Analysis",
+              "Healthcare Systems",
+              "Excel",
+              "Statistics",
+              "Data Visualization",
+              "HIPAA Compliance",
+              "Communication",
+              "Problem Solving",
+              "Attention to Detail"
+            ],
+            "recommended_skills": [
+              "Python",
+              "R",
+              "Tableau",
+              "Power BI",
+              "Machine Learning",
+              "Healthcare Analytics",
+              "Clinical Data",
+              "Project Management",
+              "Data Warehousing",
+              "ETL"
+            ]
+          },
+          {
+            "name": "Healthcare Software Developer",
+            "required_skills": [
+              "Python",
+              "JavaScript",
+              "SQL",
+              "Healthcare Systems",
+              "HIPAA Compliance",
+              "REST API",
+              "Git",
+              "System Design",
+              "Problem Solving",
+              "Communication"
+            ],
+            "recommended_skills": [
+              "React",
+              "Node.js",
+              "Docker",
+              "AWS",
+              "HL7",
+              "FHIR",
+              "EMR Systems",
+              "Security",
+              "Testing",
+              "CI/CD"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "Marketing and Advertising": {
+    "icon": "FaBullhorn",
+    "description": "Marketing, advertising, and digital media industry",
+    "job_profiles": {
+      "Digital Marketing": {
+        "sub_categories": [
+          {
+            "name": "Digital Marketing Specialist",
+            "required_skills": [
+              "SEO",
+              "SEM",
+              "Social Media Marketing",
+              "Content Marketing",
+              "Google Analytics",
+              "Email Marketing",
+              "Data Analysis",
+              "Communication",
+              "Project Management",
+              "Creativity"
+            ],
+            "recommended_skills": [
+              "Python",
+              "SQL",
+              "Tableau",
+              "Power BI",
+              "Marketing Automation",
+              "PPC",
+              "A/B Testing",
+              "CRM",
+              "Copywriting",
+              "Video Marketing"
+            ]
+          },
+          {
+            "name": "Marketing Data Analyst",
+            "required_skills": [
+              "SQL",
+              "Data Analysis",
+              "Google Analytics",
+              "Excel",
+              "Statistics",
+              "Data Visualization",
+              "Marketing Analytics",
+              "Communication",
+              "Problem Solving",
+              "Attention to Detail"
+            ],
+            "recommended_skills": [
+              "Python",
+              "R",
+              "Tableau",
+              "Power BI",
+              "Machine Learning",
+              "A/B Testing",
+              "Marketing Automation",
+              "CRM",
+              "Project Management",
+              "ETL"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "Education": {
+    "icon": "FaGraduationCap",
+    "description": "Education and training industry",
+    "job_profiles": {
+      "Educational Technology": {
+        "sub_categories": [
+          {
+            "name": "EdTech Developer",
+            "required_skills": [
+              "JavaScript",
+              "Python",
+              "React",
+              "Node.js",
+              "SQL",
+              "Git",
+              "System Design",
+              "Problem Solving",
+              "Communication",
+              "Education Technology"
+            ],
+            "recommended_skills": [
+              "TypeScript",
+              "Docker",
+              "AWS",
+              "LMS Systems",
+              "Accessibility",
+              "UI/UX",
+              "Testing",
+              "CI/CD",
+              "Security",
+              "WebRTC"
+            ]
+          },
+          {
+            "name": "Learning Management System Administrator",
+            "required_skills": [
+              "LMS Systems",
+              "SQL",
+              "System Administration",
+              "Technical Support",
+              "Training",
+              "Documentation",
+              "Problem Solving",
+              "Communication",
+              "Project Management",
+              "Attention to Detail"
+            ],
+            "recommended_skills": [
+              "JavaScript",
+              "HTML/CSS",
+              "API Integration",
+              "Data Analysis",
+              "User Management",
+              "Content Management",
+              "Security",
+              "Backup Management",
+              "Reporting",
+              "Automation"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "Manufacturing": {
+    "icon": "FaIndustry",
+    "description": "Manufacturing and industrial production industry",
+    "job_profiles": {
+      "Industrial Engineering": {
+        "sub_categories": [
+          {
+            "name": "Manufacturing Engineer",
+            "required_skills": [
+              "CAD",
+              "Process Optimization",
+              "Quality Control",
+              "Lean Manufacturing",
+              "Six Sigma",
+              "Project Management",
+              "Problem Solving",
+              "Technical Documentation",
+              "Safety Compliance",
+              "Communication"
+            ],
+            "recommended_skills": [
+              "Python",
+              "SQL",
+              "Data Analysis",
+              "Automation",
+              "PLC Programming",
+              "3D Modeling",
+              "Supply Chain",
+              "ERP Systems",
+              "Statistical Analysis",
+              "Continuous Improvement"
+            ]
+          },
+          {
+            "name": "Industrial Automation Engineer",
+            "required_skills": [
+              "PLC Programming",
+              "HMI Development",
+              "Industrial Networks",
+              "Automation Systems",
+              "Process Control",
+              "Safety Systems",
+              "Technical Documentation",
+              "Problem Solving",
+              "Project Management",
+              "Communication"
+            ],
+            "recommended_skills": [
+              "Python",
+              "SQL",
+              "SCADA",
+              "IoT",
+              "Robotics",
+              "Machine Learning",
+              "Data Analysis",
+              "Cloud Platforms",
+              "Cybersecurity",
+              "System Integration"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "Retail": {
+    "icon": "FaShoppingCart",
+    "description": "Retail and e-commerce industry",
+    "job_profiles": {
+      "E-commerce": {
+        "sub_categories": [
+          {
+            "name": "E-commerce Developer",
+            "required_skills": [
+              "JavaScript",
+              "React",
+              "Node.js",
+              "SQL",
+              "REST API",
+              "Payment Systems",
+              "E-commerce Platforms",
+              "Git",
+              "Problem Solving",
+              "Communication"
+            ],
+            "recommended_skills": [
+              "TypeScript",
+              "GraphQL",
+              "AWS",
+              "Docker",
+              "CI/CD",
+              "Testing",
+              "Security",
+              "Performance Optimization",
+              "Analytics",
+              "Mobile Development"
+            ]
+          },
+          {
+            "name": "Retail Data Analyst",
+            "required_skills": [
+              "SQL",
+              "Data Analysis",
+              "Excel",
+              "Statistics",
+              "Data Visualization",
+              "Retail Analytics",
+              "Inventory Management",
+              "Communication",
+              "Problem Solving",
+              "Attention to Detail"
+            ],
+            "recommended_skills": [
+              "Python",
+              "R",
+              "Tableau",
+              "Power BI",
+              "Machine Learning",
+              "Supply Chain",
+              "Customer Analytics",
+              "Project Management",
+              "Business Intelligence",
+              "ETL"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "Energy": {
+    "icon": "FaBolt",
+    "description": "Energy and utilities industry",
+    "job_profiles": {
+      "Energy Technology": {
+        "sub_categories": [
+          {
+            "name": "Energy Systems Engineer",
+            "required_skills": [
+              "Energy Systems",
+              "Power Systems",
+              "Renewable Energy",
+              "Project Management",
+              "Technical Documentation",
+              "Problem Solving",
+              "Communication",
+              "Safety Compliance",
+              "Data Analysis",
+              "System Design"
+            ],
+            "recommended_skills": [
+              "Python",
+              "SQL",
+              "CAD",
+              "Simulation Tools",
+              "IoT",
+              "Machine Learning",
+              "Cloud Platforms",
+              "Sustainability",
+              "Grid Systems",
+              "Energy Storage"
+            ]
+          },
+          {
+            "name": "Smart Grid Developer",
+            "required_skills": [
+              "Python",
+              "IoT",
+              "Power Systems",
+              "Network Protocols",
+              "System Integration",
+              "Security",
+              "Problem Solving",
+              "Communication",
+              "Technical Documentation",
+              "Project Management"
+            ],
+            "recommended_skills": [
+              "JavaScript",
+              "SQL",
+              "Cloud Platforms",
+              "Machine Learning",
+              "Data Analysis",
+              "Cybersecurity",
+              "Grid Systems",
+              "Energy Storage",
+              "Testing",
+              "CI/CD"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "Transportation": {
+    "icon": "FaTruck",
+    "description": "Transportation and logistics industry",
+    "job_profiles": {
+      "Logistics Technology": {
+        "sub_categories": [
+          {
+            "name": "Logistics Systems Developer",
+            "required_skills": [
+              "Python",
+              "JavaScript",
+              "SQL",
+              "REST API",
+              "Logistics Systems",
+              "Git",
+              "System Design",
+              "Problem Solving",
+              "Communication",
+              "Project Management"
+            ],
+            "recommended_skills": [
+              "TypeScript",
+              "React",
+              "Node.js",
+              "AWS",
+              "Docker",
+              "CI/CD",
+              "Testing",
+              "Security",
+              "IoT",
+              "Machine Learning"
+            ]
+          },
+          {
+            "name": "Supply Chain Analyst",
+            "required_skills": [
+              "SQL",
+              "Data Analysis",
+              "Excel",
+              "Statistics",
+              "Supply Chain",
+              "Logistics",
+              "Communication",
+              "Problem Solving",
+              "Attention to Detail",
+              "Project Management"
+            ],
+            "recommended_skills": [
+              "Python",
+              "R",
+              "Tableau",
+              "Power BI",
+              "Machine Learning",
+              "Inventory Management",
+              "Business Intelligence",
+              "Process Optimization",
+              "ERP Systems",
+              "ETL"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "Construction": {
+    "icon": "FaHardHat",
+    "description": "Construction and real estate industry",
+    "job_profiles": {
+      "Construction Technology": {
+        "sub_categories": [
+          {
+            "name": "Construction Software Developer",
+            "required_skills": [
+              "JavaScript",
+              "Python",
+              "SQL",
+              "REST API",
+              "Construction Software",
+              "Git",
+              "System Design",
+              "Problem Solving",
+              "Communication",
+              "Project Management"
+            ],
+            "recommended_skills": [
+              "TypeScript",
+              "React",
+              "Node.js",
+              "AWS",
+              "Docker",
+              "CI/CD",
+              "Testing",
+              "Security",
+              "BIM",
+              "CAD Integration"
+            ]
+          },
+          {
+            "name": "Construction Data Analyst",
+            "required_skills": [
+              "SQL",
+              "Data Analysis",
+              "Excel",
+              "Statistics",
+              "Construction Analytics",
+              "Project Management",
+              "Communication",
+              "Problem Solving",
+              "Attention to Detail",
+              "Technical Documentation"
+            ],
+            "recommended_skills": [
+              "Python",
+              "R",
+              "Tableau",
+              "Power BI",
+              "Machine Learning",
+              "BIM",
+              "Cost Estimation",
+              "Business Intelligence",
+              "Process Optimization",
+              "ETL"
+            ]
+          }
+        ]
+      }
+    }
+  }
+} 

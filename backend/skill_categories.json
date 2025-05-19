@@ -1,0 +1,188 @@
+{
+  "Programming Languages": {
+    "icon": "FaCode",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "C++",
+      "TypeScript",
+      "Go",
+      "Rust",
+      "Swift",
+      "Kotlin",
+      "Ruby",
+      "PHP",
+      "Scala",
+      "R",
+      "MATLAB"
+    ]
+  },
+  "Web Technologies": {
+    "icon": "FaGlobe",
+    "skills": [
+      "React",
+      "Node.js",
+      "HTML",
+      "CSS",
+      "Angular",
+      "Vue.js",
+      "Next.js",
+      "Django",
+      "Flask",
+      "Express.js",
+      "Spring Boot",
+      "GraphQL",
+      "REST API",
+      "WebSocket",
+      "Redux",
+      "MobX",
+      "Tailwind CSS",
+      "Bootstrap"
+    ]
+  },
+  "Database": {
+    "icon": "FaDatabase",
+    "skills": [
+      "SQL",
+      "MongoDB",
+      "PostgreSQL",
+      "MySQL",
+      "Redis",
+      "Cassandra",
+      "Elasticsearch",
+      "DynamoDB",
+      "Firebase",
+      "Neo4j",
+      "Data Modeling",
+      "ETL",
+      "Data Warehousing"
+    ]
+  },
+  "DevOps & Tools": {
+    "icon": "FaTools",
+    "skills": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Jenkins",
+      "Kubernetes",
+      "Terraform",
+      "Ansible",
+      "CI/CD",
+      "Linux",
+      "Shell Scripting",
+      "Monitoring",
+      "Logging",
+      "Prometheus",
+      "Grafana",
+      "ELK Stack",
+      "Azure",
+      "GCP"
+    ]
+  },
+  "Data Science": {
+    "icon": "FaChartBar",
+    "skills": [
+      "Machine Learning",
+      "Data Analysis",
+      "Statistics",
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "Pandas",
+      "NumPy",
+      "Data Visualization",
+      "Big Data",
+      "Deep Learning",
+      "NLP",
+      "Computer Vision",
+      "Time Series Analysis",
+      "A/B Testing"
+    ]
+  },
+  "Mobile Development": {
+    "icon": "FaMobile",
+    "skills": [
+      "React Native",
+      "Flutter",
+      "iOS Development",
+      "Android Development",
+      "Swift",
+      "Kotlin",
+      "Mobile UI/UX",
+      "App Store",
+      "Play Store",
+      "Mobile Testing",
+      "Cross-platform Development"
+    ]
+  },
+  "Cloud & Security": {
+    "icon": "FaCloud",
+    "skills": [
+      "Cloud Architecture",
+      "Cloud Security",
+      "Network Security",
+      "Penetration Testing",
+      "Cryptography",
+      "Security Tools",
+      "Compliance",
+      "Risk Assessment",
+      "Incident Response",
+      "Serverless",
+      "Microservices Security"
+    ]
+  },
+  "Blockchain": {
+    "icon": "FaLink",
+    "skills": [
+      "Solidity",
+      "Ethereum",
+      "Smart Contracts",
+      "Web3.js",
+      "Blockchain Architecture",
+      "DApps",
+      "DeFi",
+      "NFTs",
+      "Cryptocurrency",
+      "Consensus Mechanisms"
+    ]
+  },
+  "Soft Skills": {
+    "icon": "FaUserFriends",
+    "skills": [
+      "Communication",
+      "Teamwork",
+      "Leadership",
+      "Problem Solving",
+      "Time Management",
+      "Critical Thinking",
+      "Adaptability",
+      "Emotional Intelligence",
+      "Conflict Resolution",
+      "Presentation Skills",
+      "Negotiation",
+      "Project Management",
+      "Agile Methodologies",
+      "Stakeholder Management"
+    ]
+  },
+  "Design & UX": {
+    "icon": "FaPalette",
+    "skills": [
+      "UI Design",
+      "UX Design",
+      "Figma",
+      "Adobe XD",
+      "User Research",
+      "Wireframing",
+      "Prototyping",
+      "Visual Design",
+      "Interaction Design",
+      "Design Systems",
+      "Accessibility",
+      "User Testing",
+      "Information Architecture"
+    ]
+  }
+} 
