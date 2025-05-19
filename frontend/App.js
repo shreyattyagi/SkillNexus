@@ -18,6 +18,8 @@ import ATSAnalysis from './ATSAnalysis';
 import Chatbot from './Chatbot';
 import ResumeBuilder from './ResumeBuilder';
 import LandingPage from './LandingPage';
+import LoginPage from './LoginPage';
+import RegisterPage from './RegisterPage';
 import { AuthProvider, useAuth } from './AuthContext';
 import { ThemeProvider } from './ThemeContext';
 import ThemeToggle from './ThemeToggle';
@@ -379,6 +381,8 @@ function App() {
         <Router>
           <Routes>
             <Route path="/" element={<LandingPage />} />
+            <Route path="/login" element={<LoginPage />} />
+            <Route path="/register" element={<RegisterPage />} />
             <Route
               path="/dashboard"
               element={
