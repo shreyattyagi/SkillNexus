@@ -26,7 +26,7 @@ const IndustrySelector = ({ onIndustrySelect }) => {
 
   const fetchIndustries = async () => {
     try {
-      const response = await fetch('/api/industries');
+      const response = await fetch(`${process.env.REACT_APP_API_URL}/api/industries`);
       const data = await response.json();
       setIndustries(data.industries);
       setLoading(false);

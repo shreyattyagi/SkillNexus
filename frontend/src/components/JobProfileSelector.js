@@ -104,7 +104,7 @@ const JobProfileSelector = ({ industry, onProfileSelect }) => {
 
   const fetchJobProfiles = async (industryName) => {
     try {
-      const response = await fetch(`/api/industries/${encodeURIComponent(industryName)}/job-profiles`);
+      const response = await fetch(`${process.env.REACT_APP_API_URL}/api/industries/${encodeURIComponent(industryName)}/job-profiles`);
       const data = await response.json();
       setJobProfiles(data.job_profiles);
       

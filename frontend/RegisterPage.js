@@ -23,7 +23,7 @@ const RegisterPage = () => {
     setLoading(true);
 
     try {
-      await axios.post('http://127.0.0.1:8000/register', {
+      await axios.post(`${process.env.REACT_APP_API_URL}/register`, {
         email,
         password,
       });
